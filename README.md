@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer Science (mostly AI and ML - obviously), Movement and Psychology
 - 👨🏻‍🎓 I study Computer Science and Intelligent Systems at AGH University of Science and Technology
 - 📫 wmdudek00@gmail.com
+- https://wmd03.github.io/
 
 <!---
 wmd03/wmd03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
