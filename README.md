@@ -4,6 +4,7 @@
 - 📫 wmdudek00@gmail.com
 - https://wmd03.github.io/
 - https://github.com/wmd03/NeuRAD.git
+  https://paperswithcode.com/paper/neurad-neural-rendering-for-autonomous
 
 <!---
 wmd03/wmd03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
